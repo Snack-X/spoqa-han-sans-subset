@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Spoqa Han Sans Subset";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Spoqa Han Sans Bold"),
+    url("SpoqaHanSansBoldSubset.woff2") format("woff2"),
+    url("SpoqaHanSansBoldSubset.woff") format("woff"),
+    url("SpoqaHanSansBoldSubset.ttf") format("truetype");
+  unicode-range: U+21-7f, U+a5, U+ab, U+bb, U+2039-203b, U+20a9, U+3008-300f, U+3036;
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Subset";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Spoqa Han Sans Regular"),
+    url("SpoqaHanSansRegularSubset.woff2") format("woff2"),
+    url("SpoqaHanSansRegularSubset.woff") format("woff"),
+    url("SpoqaHanSansRegularSubset.ttf") format("truetype");
+  unicode-range: U+21-7f, U+a5, U+ab, U+bb, U+2039-203b, U+20a9, U+3008-300f, U+3036;
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Subset";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Spoqa Han Sans Light"),
+    url("SpoqaHanSansLightSubset.woff2") format("woff2"),
+    url("SpoqaHanSansLightSubset.woff") format("woff"),
+    url("SpoqaHanSansLightSubset.ttf") format("truetype");
+  unicode-range: U+21-7f, U+a5, U+ab, U+bb, U+2039-203b, U+20a9, U+3008-300f, U+3036;
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Subset";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local("Spoqa Han Sans Thin"),
+    url("SpoqaHanSansThinSubset.woff2") format("woff2"),
+    url("SpoqaHanSansThinSubset.woff") format("woff"),
+    url("SpoqaHanSansThinSubset.ttf") format("truetype");
+  unicode-range: U+21-7f, U+a5, U+ab, U+bb, U+2039-203b, U+20a9, U+3008-300f, U+3036;
+}

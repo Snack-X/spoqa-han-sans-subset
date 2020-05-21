@@ -1,0 +1,3 @@
+[submodule "spoqa-han-sans"]
+	path = spoqa-han-sans
+	url = https://github.com/spoqa/spoqa-han-sans.git
